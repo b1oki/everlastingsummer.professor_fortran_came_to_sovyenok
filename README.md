@@ -1,4 +1,8 @@
 # everlastingsummer.professor_fortran_came_to_sovyenok
+
+[![GitHub release](https://img.shields.io/github/release/b1oki/everlastingsummer.professor_fortran_came_to_sovyenok?maxAge=2592000&style=for-the-badge)](https://github.com/b1oki/everlastingsummer.professor_fortran_came_to_sovyenok)
+[![GitHub license](https://img.shields.io/github/license/b1oki/everlastingsummer.professor_fortran_came_to_sovyenok?style=for-the-badge)](https://github.com/b1oki/everlastingsummer.professor_fortran_came_to_sovyenok)
+
 Professor Fortran Came To Sovyenok mode for Everlasting Summer (Ren'Py)
 
 [Host Everlasting Summer game Steam page](http://store.steampowered.com/app/331470)
