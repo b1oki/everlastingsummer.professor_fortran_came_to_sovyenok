@@ -1,4 +1,4 @@
-# everlastingsummer.professor_fortran_came_to_sovyenok
+# Everlasting Summer: Professor Fortran Came To Sovyenok
 
 [![GitHub release](https://img.shields.io/github/release/b1oki/everlastingsummer.professor_fortran_came_to_sovyenok?maxAge=2592000&style=for-the-badge)](https://github.com/b1oki/everlastingsummer.professor_fortran_came_to_sovyenok)
 [![GitHub license](https://img.shields.io/github/license/b1oki/everlastingsummer.professor_fortran_came_to_sovyenok?style=for-the-badge)](https://github.com/b1oki/everlastingsummer.professor_fortran_came_to_sovyenok)
